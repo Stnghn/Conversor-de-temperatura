@@ -34,6 +34,4 @@ function calcular() {
     } else {
     result.innerHTML = `${valor.toFixed(1)} ${mostratipo}` 
     }
-
-
 }
